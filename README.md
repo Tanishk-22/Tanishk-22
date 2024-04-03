@@ -2,7 +2,7 @@
 
 🚀 Currently pursuing my degree in Software Engineering with a focus on Artificial Intelligence and Data Science.
 
-💻 Proficient in C#, C++, Python, JavaScript, and MySQL, with hands-on experience in object-oriented programming and data analysis using machine learning techniques.
+💻 Proficient in C++, Python, JavaScript, and MySQL, with hands-on experience in object-oriented programming and data analysis using machine learning techniques.
 
 🔍 Experienced in reviewing test plans and user requirements to effectively execute test cases, ensuring robust software quality.
 
