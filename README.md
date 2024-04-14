@@ -14,4 +14,4 @@
 
 🌟 Passionate about effective team collaboration and communication, with a proven record of delivering results in collaborative environments.
 
-📫 Let's connect! Feel free to check out my projects on [GitHub](https://github.com/Tanishk-22) and reach out to me at [](www.linkedin.com/in/tanishk-bisht-389436235).
+📫 Let's connect! Feel free to check out my projects on [GitHub](https://github.com/Tanishk-22) and reach out to me at [LinkedIn](www.linkedin.com/in/tanishk-bisht-389436235).
