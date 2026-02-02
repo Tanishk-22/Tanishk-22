@@ -13,4 +13,5 @@
 🔍 I enjoy working on problems involving system design, APIs, databases, testing, and performance, and I’m especially interested in roles at the intersection of software engineering and AI.
 
 🌟 Known for being curious, proactive, and collaborative, I enjoy learning quickly, taking ownership, and continuously improving both code and processes.
+
 📫 Let's connect! Feel free to check out my projects on [GitHub](https://github.com/Tanishk-22) and reach out to me at [LinkedIn](https://www.linkedin.com/in/tanishk-bisht-389436235).
