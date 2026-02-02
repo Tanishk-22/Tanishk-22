@@ -1,17 +1,16 @@
-👋 Hi there! I'm Tanishk Bisht, a passionate software engineering student eager to make a mark in the world of technology. Here's a glimpse into what I'm all about:
+👋 Hi there! I'm Tanishk Bisht, a Software Engineering graduate passionate about building reliable, scalable, and intelligent software systems that solve real-world problems.
 
-🚀 Currently pursuing my degree in Software Engineering with a focus on Artificial Intelligence and Data Science.
+🚀 I have hands-on experience across full-stack development, AI-powered systems, test automation, and backend engineering, with a strong interest in building products end-to-end and improving system quality through thoughtful design and automation.
 
-💻 Proficient in C++, Python, JavaScript, and MySQL, with hands-on experience in object-oriented programming and data analysis using machine learning techniques.
+💻 My primary tech stack includes Python, TypeScript, JavaScript, React, FastAPI, Node.js, PostgreSQL, MongoDB, and Docker, along with experience using Git/GitHub, CI/CD pipelines, and cloud platforms like AWS.
 
-🔍 Experienced in reviewing test plans and user requirements to effectively execute test cases, ensuring robust software quality.
+🤖 During my internship at Architech, I helped build an LLM-powered test automation platform that dynamically generates and executes Playwright test scripts from website content. I worked on backend APIs, frontend features, JIRA integration, CI/CD workflows, and reliability improvements—focusing on making automation faster, smarter, and more scalable.
 
-🌐 Skilled in web development technologies such as HTML, CSS, Node.js, and MongoDB, and proficient in source and version control with Git and GitHub.
+🧠 I’ve also built AI and NLP projects, including an AI Text Detector and Offensive Speech Detection system, applying techniques such as data preprocessing, model training, evaluation, and API integration using libraries like Pandas, NumPy, and scikit-learn.
 
-📊 Excited about data analysis and machine learning, I've worked on projects like an Offensive Speech Detector and have hands-on experience with tools like Pandas, NumPy, and scikit-learn.
+🛠️ On the systems side, I’ve developed embedded and IoT projects such as an Automated Plant Irrigation System and an Earthquake Early Warning System, integrating sensors, microcontrollers, serial communication, and real-time data visualization.
 
-🛠️ From building an Automated Irrigation System to developing a Fitness Web Application, I enjoy tackling diverse projects that challenge my problem-solving skills and creativity.
+🔍 I enjoy working on problems involving system design, APIs, databases, testing, and performance, and I’m especially interested in roles at the intersection of software engineering and AI.
 
-🌟 Passionate about effective team collaboration and communication, with a proven record of delivering results in collaborative environments.
-
+🌟 Known for being curious, proactive, and collaborative, I enjoy learning quickly, taking ownership, and continuously improving both code and processes.
 📫 Let's connect! Feel free to check out my projects on [GitHub](https://github.com/Tanishk-22) and reach out to me at [LinkedIn](https://www.linkedin.com/in/tanishk-bisht-389436235).
